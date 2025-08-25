@@ -1,0 +1,16 @@
+{
+    "python_version": "3.11",
+    "dependencies": [
+      "."
+    ],
+    "graphs": {
+      "research_agent": {
+        "module": "agent",
+        "instance": "app"
+      }
+    },
+    "env": {
+      "OPENAI_API_KEY": "",
+      "TAVILY_API_KEY": ""
+    }
+  }
